@@ -1,0 +1,1 @@
+- Fixed an issue that was causing Productive Bees recipes/breeding to not show in JEI
