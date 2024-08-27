@@ -5,14 +5,16 @@
    {
         "id": "v 2.0",
         "releasedAt": 1723622400000,
+        "updateType": "major",
         "promotions": {
             "downloads": {
                 "generic": "https://drive.google.com/file/d/1IZltPiXIxanXut8E7Vrs0kuE0Eh8vZfN/view?usp=sharing"
             }
-        }
+        },
    {
         "id": "v 2.5",
         "releasedAt": 1723881600000,
+        "updateType": "minor_breaking"
         "promotions": {
             "downloads": {
                 "generic": "https://drive.google.com/file/d/1IZltPiXIxanXut8E7Vrs0kuE0Eh8vZfN/view?usp=sharing"
