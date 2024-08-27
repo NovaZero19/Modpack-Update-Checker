@@ -5,7 +5,6 @@ Server Chapter Update
 - Added compatibility for Vinery trees to botany pots
 - Added a new dimension for magic mobs. You can now find Ice and Fire mobs (Dragons, etc.) and Mana and Artifice mobs in this dimension. Find the recipe for the portal blocks and dust in JEI by searching for "@Nova". Use the blocks to build the portal, like you would a nether portal, and light it with the dust.
 - Removed the Guard Villagers mod
-- Fixed an issue that was causing Productive Bees recipes/breeding to not show in JEI
 
 Added the following mods:
 
