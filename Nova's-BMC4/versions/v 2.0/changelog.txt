@@ -1,0 +1,21 @@
+Server Chapter Update
+
+  - Refreshed the whole overworld except for the chunks your bases were in. This may lead to some weirdness around the borders so feel free to terraform
+  - I didn't get a chance to pre-generate chunks yet. There may be some lag exploring the new parts of the overworld until I can
+  - Added compatibility for Vinery trees to botany pots
+  - Added a new dimension for magic mobs. You can now find Ice and Fire mobs (Dragons, etc.) and Mana and Artifice mobs in this dimension. Find the recipe for the portal blocks and dust in JEI by searching for "@Nova". Use the blocks to build the portal, like you would a nether portal, and light it with the dust.
+  - Removed the Guard Villagers mod
+
+Added the following mods:
+
+  - Dark Utilities: https://www.curseforge.com/minecraft/mc-mods/dark-utilities
+  - Industrial Foregoing: https://www.curseforge.com/minecraft/mc-mods/industrial-foregoing
+  - Iron Furnaces: https://www.curseforge.com/minecraft/mc-mods/iron-furnaces
+  - Iron Chests: https://www.curseforge.com/minecraft/mc-mods/iron-chests
+  - Advancement Plaques: https://www.curseforge.com/minecraft/mc-mods/advancement-plaques
+  - Ars Elemental: https://www.curseforge.com/minecraft/mc-mods/ars-elemental
+  - Ars Creo: https://www.curseforge.com/minecraft/mc-mods/ars-creo
+  - Ars Énergistique: https://www.curseforge.com/minecraft/mc-mods/ars-energistique/
+  - Equipment Compare: https://www.curseforge.com/minecraft/mc-mods/equipment-compare
+  - Agricraft: https://www.curseforge.com/minecraft/mc-mods/agricraft
+  - Bad Wither No Cookie: https://www.curseforge.com/minecraft/mc-mods/bad-wither-no-cookie-reloaded
