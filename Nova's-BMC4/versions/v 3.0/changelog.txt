@@ -45,7 +45,7 @@ Client Side Mods Added:
 	- Better F3 : https://modrinth.com/mod/betterf3
 	- The Mighty Architectury : https://modrinth.com/mod/the-mighty-architectury
 		- TURN OFF SHADERS WHEN USING OR IT WILL CRASH YOUR GAME! You can turn shaders back on once you're done making the schematic
-	- Item Zoom: https ://www.curseforge.com/minecraft/mc-mods/itemzoom
+	- Item Zoom: https://www.curseforge.com/minecraft/mc-mods/itemzoom
 	- Extreme Sound Muffler : https://www.curseforge.com/minecraft/mc-mods/extreme-sound-muffler
 
 Known Issues:
