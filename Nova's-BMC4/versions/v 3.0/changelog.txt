@@ -31,12 +31,12 @@
 Server Mods Added:
 	- KubeJS : https://www.curseforge.com/minecraft/mc-mods/kubejs
 	- Mystical Customization : https://www.curseforge.com/minecraft/mc-mods/mystical-customization
-	- Login Protection
+	- Login Protection: https://www.curseforge.com/minecraft/mc-mods/login-protection
 	- FastWorkbench : https://www.curseforge.com/minecraft/mc-mods/fastworkbench
 	- FastFurnace : https://www.curseforge.com/minecraft/mc-mods/fastfurnace
 	- FastSuite : https://www.curseforge.com/minecraft/mc-mods/fastsuite
 	- AI Improvements : https://www.curseforge.com/minecraft/mc-mods/ai-improvements
-	- No Villager Death Messages
+	- No Villager Death Messages: https://www.curseforge.com/minecraft/mc-mods/no-villager-death-messages
 	- In Control! : https://www.curseforge.com/minecraft/mc-mods/in-control
 
 Client Side Mods Added:
