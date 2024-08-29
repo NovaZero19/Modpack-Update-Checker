@@ -2,6 +2,7 @@
 - Removed most of the AE2 facades from JEI to lower the amount of pages. The stone facade is still there to show the recipe template for the other blocks
 - fixed overworld waypoints showing in the nether
 - multiple gui changes to make the pack our own
+- removed the smarter mobs so they should be less aggressive now
 
 
 - Updated Mods:
