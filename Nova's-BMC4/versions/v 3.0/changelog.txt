@@ -1,6 +1,7 @@
 - Configured the update checker to properly work with my versions of the modpack. Now you can be notified of updates on the main menu screen, and you can see the changelogs and download button for the updates by clicking on the update available button
-- Removed AE2 facades from JEI to lower the amount of pages. You can still see the recipes for the facades by clicking on a compatible block
+- Removed most of the AE2 facades from JEI to lower the amount of pages. The stone facade is still there to show the recipe template for the other blocks
 - fixed overworld waypoints showing in the nether
+- multiple gui changes to make the pack our own
 
 
 - Updated Mods:
