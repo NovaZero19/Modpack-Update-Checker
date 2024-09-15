@@ -1,2 +1,2 @@
 Hotfix:
-  - Removed EverCompat to fix an issue preventing players from logging into the server
+  - Removed EveryCompat to fix an issue preventing players from logging into the server
