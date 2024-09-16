@@ -1,0 +1,20 @@
+- added mekanism compatibility so that all raw ores can now be processed for up to 5x the ingots (let me know if I missed any)
+- Moved some of the datapacks to KubeJS
+- Moved some of the resourcepacks to KubeJS
+- Hid some unused recipes in JEI (let me know if I missed any)
+- Reset the Magic dimension to respawn dragons and spawn new ores
+- Reset the Mining dimension to spawn new ores in chunks that were already loaded
+- Fixed several item tags
+- Fixed some recipes that were not outputting the correct items
+
+Added Mods:
+	- Tank /null/: https://www.curseforge.com/minecraft/mc-mods/tank-null
+	- Construction Wand: https://www.curseforge.com/minecraft/mc-mods/construction-wand
+	- Structure Compass: https://www.curseforge.com/minecraft/mc-mods/structure-compass
+	- Thermal Expansion: https://www.curseforge.com/minecraft/mc-mods/thermal-expansion
+
+Server Mods:
+	- Almost Unified: https://www.curseforge.com/minecraft/mc-mods/almost-unified
+
+
+
