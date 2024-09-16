@@ -7,6 +7,8 @@
 - Fixed several item tags
 - Fixed some recipes that were not outputting the correct items
 
+Updated Mods:
+	- JEI
 Added Mods:
 	- Tank /null/: https://www.curseforge.com/minecraft/mc-mods/tank-null
 	- Construction Wand: https://www.curseforge.com/minecraft/mc-mods/construction-wand
