@@ -1,0 +1,21 @@
+Halloween Update v 5.0 - The Spookening
+
+- Fixed the issue where potions and potion charms were not showing in JEI
+- Configured JustEnoughResources to now properly show where ores can spawn
+- Fixed the textures for the Chaos Dragon and the Vinery Wandering Trader
+- Added Forbidden Arcanus, Thermal Expansion, and Weeping Angel ore generation to the mining dimension
+	- DO NOT build important structures in this dimension. In the future, any new ores will be added to the mining dimension only and it will be refreshed
+- Added compatibility between Agricraft, Mystical Agriculture, Farmer's Delight, and Biome's O Plenty
+	- You can now level up seeds from these 3 mods using Agricraft's system. Just insert a seed into the analyzer to start
+
+Added Mods:
+
+	- Some super secret spooky mods to get you in the halloween spirit 
+	- Timeless and Classics Zero: https://www.curseforge.com/minecraft/mc-mods/timeless-and-classics-zero
+		- Yes, those are guns. You might need them ;)
+
+Updated:
+
+- Apotheosis
+- JEI
+- Mana and Artifice
