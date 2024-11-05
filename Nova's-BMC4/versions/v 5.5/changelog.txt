@@ -1,4 +1,4 @@
 - Halloween is now over so the spooky mods are gone. But the guns get to stay!
 - Added some compatibility for Thermal Expansion recipes with other mods
 - Added compatibility between Botany Pots and Mana and Artifice
-- Mystsical Agrigiculture fertilizers now work on Botany Pots
+- Mystical Agrigiculture fertilizers now work on Botany Pots
